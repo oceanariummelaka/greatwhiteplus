@@ -1,2 +1,2 @@
 # greatwhiteplus
-For Box JellyfishXR not supporting Browser
+For Great White Shark XR not supporting Browser
